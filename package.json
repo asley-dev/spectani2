@@ -2,9 +2,9 @@
   "name": "mqtt-publisher-app",
   "version": "1.0.0",
   "description": "MQTT publisher and message handler",
-  "main": "api/server_pub_save.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "node api/server_pub_save.js"
+    "start": "node api/server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
